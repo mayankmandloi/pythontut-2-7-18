@@ -1,6 +1,7 @@
 test=10
 Test=20
 TEST=40
+hello=12
 print(test)
 print(Test)
 print(TEST)

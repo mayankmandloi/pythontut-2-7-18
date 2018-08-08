@@ -5,7 +5,7 @@ class Student():
 
 s1=Student("Rahul")
 print(s1.name)
-
+print(s1.name)
 s2=Student("Vikas")
 print(s2.name)
 #print(Student.name)

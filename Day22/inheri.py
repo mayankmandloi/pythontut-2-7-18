@@ -8,3 +8,4 @@ class t2(t1):
 
 t= t2()
 print(t.state,t.city,t.name)
+
